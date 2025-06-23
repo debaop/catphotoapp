@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(176, 213, 200);
+     display: flex;
+    justify-content: center;
+     align-items: center;
+     margin: 0;
+     padding: 0;
+    flex-direction: column;
+     transform: translateX(-5%);
+     min-height:100vh;
+}
